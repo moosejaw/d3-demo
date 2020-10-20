@@ -1,0 +1,9 @@
+/* Contains the styles to be loaded on every page. */
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+}
